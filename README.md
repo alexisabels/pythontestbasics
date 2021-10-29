@@ -1,5 +1,5 @@
 # pythontestbasics
-Files included: 
+relevant files included:  
 
 gcd.py == calculate greatest common divisor
 
