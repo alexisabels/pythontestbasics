@@ -1,0 +1,8 @@
+import math
+print("calculates gcd")
+number1 = int(input("Number1: "))
+number2 = int(input("Number2: "))
+x = str(math.gcd(number1,number2))
+print(x)
+input("press enter to exit")
+    
