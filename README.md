@@ -4,3 +4,7 @@ relevant files included:
 gcd.py == calculate greatest common divisor
 
 module_hyp calculator.py == calculates module (hypotenuse from cath1 & cath2) 
+
+
+
+(url name change request: isabelsanchezalex@gmail.com)
